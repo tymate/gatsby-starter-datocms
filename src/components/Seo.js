@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from 'gatsby';
 import { get } from 'lodash';
 
 const SEO = ({ description, lang, meta, title, twitterCard, image }) => {
-  const { site } = useStaticQuery(
+  const { site, datoCmsSite } = useStaticQuery(
     graphql`
       query {
         site {
@@ -32,8 +32,6 @@ const SEO = ({ description, lang, meta, title, twitterCard, image }) => {
       }
     `,
   );
-
-  const datoCmsSite = {};
 
   const metaDescription =
     description ||

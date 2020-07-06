@@ -1,7 +1,4 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
   <a href="https://tymate.com">
@@ -17,6 +14,10 @@
 
 
 # Gatsby starter datoCMS
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well as a Netlify automation plugins.
 

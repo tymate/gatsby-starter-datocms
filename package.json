@@ -3,7 +3,7 @@
   "private": false,
   "description": "Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well as a Netlify automation plugins.",
   "author": "@tymate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "Apache 2.0",
   "scripts": {
     "build": "gatsby build",

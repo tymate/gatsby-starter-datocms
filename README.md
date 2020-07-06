@@ -50,7 +50,7 @@ Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well
 
     Open the `my-project-name` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## :colis: What's inside?
+##  📦 What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project, and list of included libraries.
 

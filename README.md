@@ -39,7 +39,7 @@ Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well
 
     ```shell
     cd my-project-name/
-    gatsby develop
+    gatsby develop 
     ```
 
 3.  **Open the source code and start editing!**

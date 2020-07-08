@@ -37,12 +37,26 @@ Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well
     gatsby new my-project-name https://github.com/tymate/gatsby-starter-datocms
     ```
 
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+2.  **Set up your environment.**
+    Navigate into your new site’s directory and add a envionment file.
 
     ```shell
     cd my-project-name/
+    mkdir .env.development
+    ```
+
+    Add this template in your `.env.development` and complete it with you API keys.
+
+    ```
+    GATSBY_DATOCMS_API_TOKEN=
+    GATSBY_GA=
+    ```
+
+3.  **Start developing.**
+
+    Now you can start it up and update as your pleasure.
+
+    ```shell
     gatsby develop 
     ```
 

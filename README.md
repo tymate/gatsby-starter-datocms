@@ -112,7 +112,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
  ## 📣 What's next
 
-* Add your datoCMS API token in `.env.development`
 * ⚠️ Edit `README.md`
 * Change name and description in `package.json`
 * Change title, description and siteUrl in `siteMetadata` and the name, description and short_name in `gatsby-plugin-manifest` options's in gatsby-config.js` 

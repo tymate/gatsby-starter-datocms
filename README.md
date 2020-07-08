@@ -54,7 +54,7 @@ Bootstrap your JAMstack with datoCMS, Tymate devs’ favorite libraries, as well
 
 3.  **Start developing.**
 
-    Now you can start it up and update as your pleasure.
+    Now you can start it up.
 
     ```shell
     gatsby develop 
